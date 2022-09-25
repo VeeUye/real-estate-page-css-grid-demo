@@ -1,38 +1,30 @@
-# Natours: Advanced CSS Demo
+# Nexter: Advanced CSS Grid Demo
 
-This website was built during my completion of Jonas Schmedtmann's [Advanced CSS & Sass Course].
+This page was built during my completion of Jonas Schmedtmann's [Advanced CSS & Sass Course].
 
 - [Brief](#the-brief)
 - [Learning Concepts](#learning-concepts)
 - [Technologies](#technologies)
-- [View project on Github Pages](#view-project-on-github-pages)
 - [Acknowledgements](#acknowledgements)
 - [Project Status](#project-status)
 
 ## The Brief
 
-To create a pure HTML/CSS landing page for a fictional hotel booking company.
+To create a pure HTML/CSS landing page for a fictional real estate company 
 
 ## Learning Concepts
 
-- Flexbox
-- Custom CSS properties
+- CSS Grid
 
 ## Technologies
 
 - HTML
 - CSS
 
-## View project on GitHub Pages
-
-You can view this project on GitHub Pages by visiting
-
-[https://veeuye.github.io/booking-app-flexbox-demo/](https://veeuye.github.io/booking-app-flexbox-demo/)
-
 ## Acknowledgements
 
 [Jonas Schmedtmann ](https://www.udemy.com/course/advanced-css-and-sass/) for their excellent course.
 
 ## Project Status
+Active
 
-Complete
