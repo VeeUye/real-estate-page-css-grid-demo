@@ -1,0 +1,14 @@
+{
+  "name": "Nexter",
+  "version": "1.0.0",
+  "description": "Landing Page for Real Estate Company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vee Uye",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
