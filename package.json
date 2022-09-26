@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-veeuye:VeeUye/real-estate-page-css-grid-demo.git"
+  },
   "author": "Vee Uye",
   "license": "ISC",
   "devDependencies": {
