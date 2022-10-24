@@ -90,9 +90,35 @@ body {
 }
 
 .sidebar {
+  display: flex;
+  justify-content: center;
   background-color: #c69963;
   grid-column: sidebar-start/sidebar-end;
   grid-row: 1/-1;
+}
+
+.nav-btn {
+  height: 2px;
+  width: 4.5rem;
+  margin-top: 4rem;
+  border: none;
+  border-radius: 0;
+  background-color: #fff;
+}
+.nav-btn::before, .nav-btn::after {
+  display: block;
+  content: "";
+  height: 2px;
+  width: 4.5rem;
+  border: none;
+  border-radius: 0;
+  background-color: #fff;
+}
+.nav-btn::before {
+  transform: translateY(-1.5rem);
+}
+.nav-btn::after {
+  transform: translateY(1.3rem);
 }
 
 .header {
